@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JohnAmeh1
-- 👀 I’m interested in Web Designing
+- 👀 I’m interested in Web Designing and Frontend Developing
 - 🌱 I’m currently learning mobile dev with Java
 - 💞️ I’m looking to collaborate on Web projects
 - 📫 How to reach me. Email: johnameh29@gmail.com
