@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JohnAmeh1
-- 👀 I’m interested in Web Designing, Web Developing
-- 🌱 I’m currently learning more on web dev with PHP
+- 👀 I’m interested in Frontend Developing, Web Developing
+- 🌱 I’m currently learning more on web dev with PHP, Python and mobile dev with Flutter
 - 💞️ I’m looking to collaborate on Web projects
 - 📫 How to reach me. Email: johnameh29@gmail.com
 
