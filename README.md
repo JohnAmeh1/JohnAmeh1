@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JohnAmeh1
-- 👀 I’m interested in Frontend Developing, Web Developing
+- 👀 I’m interested in Frontend development, Web development and full stack development 
 - 🌱 I’m currently learning more on web dev with Python and mobile dev with Flutter
 - 💞️ I’m looking to collaborate on Web projects
 - 📫 How to reach me. Email: johnameh29@gmail.com
